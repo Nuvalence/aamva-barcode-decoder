@@ -1,0 +1,4 @@
+[submodule "zxing"]
+	path = zxing
+	url = https://github.com/zxing/zxing.git
+	branch = master
